@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yanqilu1997@126.com
 - ⚡ Fun fact: Addict to reading and walking. Indeed they make me sobering
 -->
-I'm Dru.
+I'm Dru(Lu Rui).
 - 🔭 I’m currently working on Alibaba Cloud as SRE
 - 🌱 I’m currently learning Java\ChatGPT\Rust\...
 - 👯 I’m looking to collaborate on big data\AI applications
