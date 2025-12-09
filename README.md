@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Addict to reading and walking. Indeed they make me sobering
 -->
 I'm Dru(Lu Rui).
-- 🔭 I’m currently working on Alibaba Cloud as SRE
+- 🔭 I’m currently working on Tencent as architect
 - 🌱 I’m currently learning Java\ChatGPT\Rust\...
 - 👯 I’m looking to collaborate on big data\AI applications
 - 📫 How to reach me: yanqilu1997@126.com
-- ⚡ Fun fact: Addict to reading and walking. Indeed they make me sobering
+- ⚡ Fun fact: Addict to reading and walking, which makes me sober
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=lurui1997)
