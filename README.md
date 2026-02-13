@@ -1,8 +1,8 @@
-# 你好，我是 [你的名字]
+# 你好，我是路睿
 
 > AI 与大数据解决方案专家 | 专注于机器学习、数据工程与云计算
 
-[![Status](https://img.shields.io/badge/status-可接项目咨询-green)](mailto:your.email@example.com)
+[![Status](https://img.shields.io/badge/status-可接项目咨询-green)](mailto:yanqilu1997@126.com)
 [![Email](https://img.shields.io/badge/Email-your.email@example.com-blue)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-yourusername-black)](https://github.com/yourusername)
 
@@ -134,19 +134,8 @@
 
 | 方式 | 内容 |
 |------|------|
-| 📧 **邮箱** | [your.email@example.com](mailto:your.email@example.com) |
-| 💬 **微信** | your_wechat_id |
+| 📧 **邮箱** | [yanqilu1997@126.com](mailto:yanqilu1997@126.com) |
+| 💬 **微信** | Default_Lu |
 | 📍 **地点** | 中国 · 北京 / 远程 |
-| 💼 **状态** | 可接咨询项目 |
 
 ---
-
-## 关注我
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourusername)
-
----
-
-> 用数据创造价值，让智能驱动未来
